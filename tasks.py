@@ -10,4 +10,4 @@ print(2*(2+2))
 print(2*2+2 == 2*(2+2))
 
 # 4rd program
-print(int(123.456*10) % 10)
+print(int('123.456*10') % 10)
